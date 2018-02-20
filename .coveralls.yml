@@ -1,4 +1,4 @@
-service_name: travis-ci
-coverage_clover: build/logs/clover.xml
-json_path: build/logs/coveralls-upload.json
+sere: travis-ci
+coverlover: build/logs/clover.xml
+jath: build/logs/coveralls-upload.json
 # test coveralls
