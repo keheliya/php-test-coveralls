@@ -1,5 +1,3 @@
-# Config file for https://travis-ci.org/
-# Validate this file here - http://lint.travis-ci.org/
 
 language: php
 
